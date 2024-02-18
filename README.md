@@ -1,0 +1,1 @@
+This shred focuses on implementing a feature within a Spring Boot application using Hexagonal Architecture. It encapsulates a single feature that interacts with a MySQL database to perform CRUD operations. The architecture divides the application into three main layers: Domain, Application, and Infr
